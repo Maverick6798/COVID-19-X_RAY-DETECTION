@@ -39,14 +39,14 @@ Webpages are built on HTML and CSS.
 Docker and Dockerfile is used to convert all of it into an OS(image).
 That image is later on pushed on **Docker Hub** for public use.
 To pull that image from Docker Hub
-		**docker pull maverick6798/ann_image_classifier**
+		**docker pull maverick6798/cnn_x_ray_covid_19**
 All the files later on are uploaded on github.
 
 ## To Run The Project
 
    1. Download the docker 
    2. Use these command on terminal -
-   			***docker pull maverick6798/ann_image_classifier***
+   			***docker pull maverick6798/cnn_x_ray_covid_19***
   		    ***docker run -dit maverick6798/cnn_x_ray_covid_19***
    3. Go to your browser and use URL ***127.0.0.1:5000***.
    4. Upload the X-Ray of the chest. 
