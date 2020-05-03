@@ -4,7 +4,7 @@ This is an image classifier **Deep Learning model** created with the help of *Co
 
 ### It detects images using deep learning and python
 
-I will be using Convolutional Neural Network** in this project,in perticular CNN is trained on multiple dataset took from different places.
+I will be using **Convolutional Neural Network** in this project,in perticular CNN is trained on multiple dataset took from different places.
 
 This dataset consists of data of following :
 
@@ -19,9 +19,9 @@ https://github.com/ieee8023/covid-chestxray-dataset
 https://github.com/UCSD-AI4H/COVID-CT 
 
 ## About COVID-19
-Coronavirus disease 2019 (COVID-19) is a highly infectious disease caused by severe acute respiratory syndrome coronavirus 2. The disease first originated in December 2919 from Wuhan, China and since then it has spread globally across the world affecting more than 200 countries. The impact is such that the World Health Organization(WHO) has declared the ongoing pandemic of COVID-19 a Public Health Emergency of International Concern
+*Coronavirus disease 2019 (COVID-19) is a highly infectious disease caused by severe acute respiratory syndrome coronavirus 2. The disease first originated in December 2919 from Wuhan, China and since then it has spread globally across the world affecting more than 200 countries. The impact is such that the World Health Organization(WHO) has declared the ongoing pandemic of COVID-19 a Public Health Emergency of International Concern*
 
-The 2019 novel coronavirus (COVID-19) presents several unique features. While the diagnosis is confirmed using polymerase chain reaction (PCR), infected patients with pneumonia may present on chest X-ray and computed tomography (CT) images with a pattern that is only moderately characteristic for the human eye Ng, 2020. COVID-19’s rate of transmission depends on our capacity to reliably identify infected patients with a low rate of false negatives. In addition, a low rate of false positives is required to avoid further increasing the burden on the healthcare system by unnecessarily exposing patients to quarantine if that is not required. Along with proper infection control, it is evident that timely detection of the disease would enable the implementation of all the supportive care required by patients affected by COVID-19.
+*The 2019 novel coronavirus (COVID-19) presents several unique features. While the diagnosis is confirmed using polymerase chain reaction (PCR), infected patients with pneumonia may present on chest X-ray and computed tomography (CT) images with a pattern that is only moderately characteristic for the human eye Ng, 2020. COVID-19’s rate of transmission depends on our capacity to reliably identify infected patients with a low rate of false negatives. In addition, a low rate of false positives is required to avoid further increasing the burden on the healthcare system by unnecessarily exposing patients to quarantine if that is not required. Along with proper infection control, it is evident that timely detection of the disease would enable the implementation of all the supportive care required by patients affected by COVID-19.*
 
 
 ## Installation
@@ -46,8 +46,8 @@ All the files later on are uploaded on github.
 
    1. Download the docker 
    2. Use these command on terminal -
-   			***docker pull maverick6798/cnn_x_ray_covid_19***
-  		    ***docker run -dit maverick6798/cnn_x_ray_covid_19***
+   * ***docker pull maverick6798/cnn_x_ray_covid_19***
+   * ***docker run -dit maverick6798/cnn_x_ray_covid_19***
    3. Go to your browser and use URL ***127.0.0.1:5000***.
    4. Upload the X-Ray of the chest. 
 
