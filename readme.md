@@ -55,4 +55,4 @@ All the files later on are uploaded on github.
 *There is a chance that docker might not open image. so use command* ***setenforce 0*** *before running the image.*
 
 ### NOTE
-**Please do not claim diagnostic performance of the model withut a clinical study.**
+**Please do not claim diagnostic performance of the model without a clinical study.**
